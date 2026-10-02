@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Nick Anderson. Founder and builder.</title>
+  <desc id="desc">A dark blue portfolio banner with an abstract network of connected signals. Chicago, Illinois.</desc>
+  <rect width="1200" height="360" rx="24" fill="#0d1727"/>
+  <path d="M720 0V360M840 0V360M960 0V360M1080 0V360M660 60H1200M660 180H1200M660 300H1200" stroke="#203147" stroke-width="1"/>
+  <path d="M735 262L824 188L933 226L1044 107L1148 148" fill="none" stroke="#4fd1bb" stroke-width="3"/>
+  <path d="M735 262L852 91L933 226L1104 291" fill="none" stroke="#42647f" stroke-width="2"/>
+  <circle cx="735" cy="262" r="9" fill="#4fd1bb"/>
+  <circle cx="824" cy="188" r="7" fill="#4fd1bb"/>
+  <circle cx="852" cy="91" r="6" fill="#7691aa"/>
+  <circle cx="933" cy="226" r="17" fill="#0d1727" stroke="#4fd1bb" stroke-width="3"/>
+  <circle cx="933" cy="226" r="6" fill="#4fd1bb"/>
+  <circle cx="1044" cy="107" r="9" fill="#f5b363"/>
+  <circle cx="1148" cy="148" r="6" fill="#4fd1bb"/>
+  <circle cx="1104" cy="291" r="6" fill="#7691aa"/>
+  <rect x="58" y="54" width="34" height="4" rx="2" fill="#f5b363"/>
+  <text x="58" y="111" fill="#4fd1bb" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="4">FOUNDER / BUILDER</text>
+  <text x="54" y="191" fill="#f4f1ea" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="700" letter-spacing="-2">Nick Anderson</text>
+  <text x="58" y="241" fill="#c3cfdb" font-family="Arial, Helvetica, sans-serif" font-size="24">Finding the signal. Building what comes next.</text>
+  <text x="58" y="307" fill="#8298ae" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2">CHICAGO, IL  /  CANDIENCE  /  OPEN SOURCE</text>
+</svg>
