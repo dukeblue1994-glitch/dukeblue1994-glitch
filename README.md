@@ -17,7 +17,7 @@ Alongside that work, I build tools for event intelligence, local security analys
 | **Candience** | An experience intelligence layer for talent acquisition. Built for prediction, not collection. | [Website](https://www.candience.com) |
 | **Chronicle** | A Python library that turns news streams into clustered events and source-linked timelines. | [Repository](https://github.com/dukeblue1994-glitch/chronicle) · [PyPI](https://pypi.org/project/chronicle-events/) |
 | **AegisLab** | A local lab for synthetic security events, detection analytics, and reproducible reports. | [Repository](https://github.com/dukeblue1994-glitch/aegislab) |
-| **Sniffr** | A web and mobile project for dogs and the people who care for them. | [Repository](https://github.com/dukeblue1994-glitch/Sniffr_App) |
+| **Barks & Parks** | A web and mobile project for dogs and the people who care for them. | [Repository](https://github.com/dukeblue1994-glitch/Barks-and-Parks) |
 
 ## How I approach the work
 
